@@ -1,5 +1,6 @@
 body{
 	font-family: 'Raleway', sans-serif;
+
 }
 
 #fotoFondo{
@@ -14,6 +15,9 @@ body{
 	background-color: #292F30;
 	width: 800px;
 	height: 450px;
+	margin: auto;
+	position: relative;
+	margin-top: 100px;
 }
 
 
@@ -59,7 +63,7 @@ opacity: 0.9;
 }
 
 #Nombre{
-	width: 100%;
+	width: 98.5%;
 	height: 50px;
 	margin-top: 30px;
 	text-align: center;
